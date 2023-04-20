@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Question4
 {
-  class Main {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     int num = in.nextInt();
@@ -17,5 +16,4 @@ public class Question4
       System.out.println("");
     }
   }
-}
 }
